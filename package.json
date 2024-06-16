@@ -1,0 +1,32 @@
+{
+  "name": "schdeule-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachin3348/aws-sqs-schedule-events-lamda.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "SQS",
+    "node",
+    "AWS",
+    "eventBridge",
+    "Schedule",
+    "Events"
+  ],
+  "author": "Sachin Mahto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachin3348/aws-sqs-schedule-events-lamda/issues"
+  },
+  "homepage": "https://github.com/Sachin3348/aws-sqs-schedule-events-lamda#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
